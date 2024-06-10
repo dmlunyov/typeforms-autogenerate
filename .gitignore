@@ -1,0 +1,19 @@
+.idea/
+**/.DS_Store
+.DS_Store
+logs
+node_modules
+.vscode/launch.json
+.vscode
+qb.sh
+/log.txt
+/logParse_out.txt
+/parseLog.js
+
+# remove on build
+# the next lines will be removed due build process
+# to keep minified and archives in the build branch
+/dist
+/firefox
+*.bundle.js
+/build
